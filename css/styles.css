@@ -1,0 +1,149 @@
+body {
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  color:#66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size:5.625rem;
+  margin-bottom: 0;
+  margin-top: 50px auto 0 auto;
+}
+
+h2 {
+  color:#66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style:dotted none none none;
+  width:8%;
+  border-width:10px;
+  border-color:#EAF6F6;
+}
+
+a {
+  color:#11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+#tagline {
+  font-size: 2.5rem;
+  color:#66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+.hello {
+  margin: 30px auto;
+}
+
+.skills {
+  margin-top:100px;
+}
+
+.skill-row {
+  width:50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top:100px;
+  position:relative;
+}
+
+.bottom-container {
+  background-color:#66BFBF;
+  padding:30px;
+}
+
+.top-cloud {
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+
+.bottom-cloud {
+  display:block;
+  position: absolute;
+  margin:0 auto;
+  left: 300px;
+  bottom:300px;
+}
+
+.profile-pic {
+  border-radius: 50%;
+}
+
+.profile {
+  margin: 100px auto;
+  width: 50%;
+}
+
+.computing-img {
+  border-radius: 50%;
+  float:left;
+  margin-right: 30px;
+  width:25%;
+
+}
+
+.knitting-img {
+  float:right;
+  margin-left:30px;
+  width:25%;
+}
+
+.myButton {
+	background-color:#66BFBF;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+  margin:50px auto;
+	padding:16px 31px;
+	text-decoration:none;
+}
+
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.footer {
+  color:#EAF6F6;
+  margin-top:30px;
+  font-size: 0.75rem;
+}
+
+.footer-link {
+  text-decoration: none;
+  padding:20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link:hover {
+  color:#EAF6F6;
+}
+
+.contact-message {
+  width:40%;
+  margin: 40px auto 60px auto;
+}
